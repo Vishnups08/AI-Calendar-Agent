@@ -12,7 +12,7 @@ if st.button("Send") and user_input:
     st.session_state["messages"].append(("user", user_input))
     # Send to FastAPI backend
     response = requests.post(
-        "http://localhost:8000/chat",
+        "https://ai-calendar-agent.onrender.com/",
         json={"message": user_input}
     )
     if response.status_code == 200:
