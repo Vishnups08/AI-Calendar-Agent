@@ -75,14 +75,8 @@ This project is a conversational AI agent that helps users book appointments on 
      - "Do you have any free time this Friday?"
      - "Book a meeting between 3-5 PM next week."
 
-## Troubleshooting
-- **OAuth Error:** Make sure your Google account is added as a test user in the Google Cloud Console.
-- **Port in Use:** If you get an "address already in use" error, kill the process using that port or use a different port.
-- **Connection Error:** Ensure the backend is running before starting the frontend.
 
 ## Example Conversations Your Agent Can Handle
 - "Hey, I want to schedule a call for tomorrow afternoon."
 - "Do you have any free time this Friday?"
 - "Book a meeting between 3-5 PM next week."
-- "Book a meeting at 10 AM on 2024-06-20."
-- "What slots are available in the evening next Monday?"
