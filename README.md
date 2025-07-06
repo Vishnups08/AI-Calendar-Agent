@@ -9,7 +9,9 @@ This project is a conversational AI agent that helps users book appointments on 
 - Calendar: Google Calendar API
 
 ## Output
-![running](https://github.com/user-attachments/assets/c6fa549e-afc3-4039-9877-e2713ecc9c1a)
+<img width="1431" alt="Screenshot 2025-07-06 at 3 54 53 PM" src="https://github.com/user-attachments/assets/18a4fcfe-535b-4cc5-a46e-d3e26b394c60" />
+<img width="1440" alt="Screenshot 2025-07-06 at 3 54 26 PM" src="https://github.com/user-attachments/assets/7bad4867-4581-4fc6-8ea7-6ad04a3bee40" />
+
 
 ## Features
 - Natural language chat for booking and checking calendar slots
